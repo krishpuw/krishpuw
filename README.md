@@ -16,24 +16,29 @@ I'm a Graduate Research Assistant in **Dr. Hongxin Hu's lab at UB**, where I'm c
 
 ## 🛠️ Skills
 
-**Security**
-`SIEM` · `Detection Engineering` · `MITRE ATT&CK` · `Threat Intelligence Enrichment` · `Adversary Simulation (MITRE Caldera)` · `LLM / AI Security` · `Secure Code Evaluation`
+Core tools and technologies across cloud security, systems, and applied ML.
 
-**Cloud & Infrastructure**
-`AWS Lambda` · `S3` · `DynamoDB` · `EC2` · `IAM` · `CloudFormation / SAM` · `EventBridge` · `Docker`
-
-**Tools & Platforms**
-`Splunk` · `VirusTotal API` · `AbuseIPDB API` · `Git / GitHub`
-
-**Languages & Frameworks**
-`Python` · `Flask` · `SQLAlchemy` · `C++` · `JavaScript` · `HTML/CSS`
+| Skill | Level | Notes |
+| --- | --- | --- |
+| Python | Advanced | 3+ years experience |
+| AWS & Cloud Security | Intermediate | AWS SOC project |
+| Docker & Containerization | Intermediate | |
+| SIEM & Detection Engineering | Intermediate | 1+ year experience |
+| Networking & Security | Intermediate | CCNA in progress |
+| C & Embedded Systems | Intermediate | ARM & FPGA/VHDL |
+| SQL & Databases | Intermediate | PostgreSQL, Tableau |
+| Bash & Systems Administration | Intermediate | Multiple projects |
+| Cryptography & OpenSSL | Intermediate | SEED Labs coursework |
+| Machine Learning | Intermediate | PyTorch, scikit-learn |
+| Virtualization (Nutanix, Hyper-V, vSphere) | Familiar | NCA certification in progress |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ## 📫 Get in touch
 
