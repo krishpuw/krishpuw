@@ -13,6 +13,7 @@ I'm a Graduate Research Assistant in **Dr. Hongxin Hu's lab at UB**, where I'm c
 
 - **Infrastructure**: securing the cloud and systems that everything else runs on
 - **Risk**: understanding where security risk lives and how to reduce it
+- **Detection engineering**: turning attacker behavior into detections that actually fire
 
 ## 🛠️ Skills
 
