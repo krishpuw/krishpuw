@@ -11,9 +11,8 @@ I'm a Graduate Research Assistant in **Dr. Hongxin Hu's lab at UB**, where I'm c
 
 ## 🎯 What I'm into
 
-- **AI security**: prompt injection, jailbreaks, PII leakage, and the security of AI-generated code
-- **Cloud security**: detection, least-privilege IAM, and securing serverless and cloud-native architectures on AWS
-- **Detection engineering**: turning attacker behavior (MITRE ATT&CK) into rules that actually fire
+- **Infrastructure**: securing the cloud and systems that everything else runs on
+- **Risk**: understanding where security risk lives and how to reduce it
 
 ## 🛠️ Skills
 
