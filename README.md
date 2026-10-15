@@ -18,19 +18,17 @@ I'm a Graduate Research Assistant in **Dr. Hongxin Hu's lab at UB**, where I'm c
 
 Core tools and technologies across cloud security, systems, and applied ML.
 
-| Skill | Level | Notes |
-| --- | --- | --- |
-| Python | Advanced | 3+ years experience |
-| AWS & Cloud Security | Intermediate | AWS SOC project |
-| Docker & Containerization | Intermediate | |
-| SIEM & Detection Engineering | Intermediate | 1+ year experience |
-| Networking & Security | Intermediate | CCNA in progress |
-| C & Embedded Systems | Intermediate | ARM & FPGA/VHDL |
-| SQL & Databases | Intermediate | PostgreSQL, Tableau |
-| Bash & Systems Administration | Intermediate | Multiple projects |
-| Cryptography & OpenSSL | Intermediate | SEED Labs coursework |
-| Machine Learning | Intermediate | PyTorch, scikit-learn |
-| Virtualization (Nutanix, Hyper-V, vSphere) | Familiar | NCA certification in progress |
+- Python
+- AWS & Cloud Security
+- Docker & Containerization
+- SIEM & Detection Engineering
+- Networking & Security
+- C & Embedded Systems
+- SQL & Databases
+- Bash & Systems Administration
+- Cryptography & OpenSSL
+- Machine Learning
+- Virtualization (Nutanix, Hyper-V, vSphere)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
